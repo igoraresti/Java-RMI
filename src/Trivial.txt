@@ -1,0 +1,10 @@
+﻿1.pregunta: Quien va a ganar la final de la copa de este año?
+Athletic
+2.pregunta: Cual es la capital de Polonia?
+Varsovia
+3.pregunta: Que significa thief?
+ladron
+4.pregunta: Cual es la integral de cos(x) dx?
+sen(x)
+5.pregunta: Cual es el pais mas grande del mundo?
+Rusia
